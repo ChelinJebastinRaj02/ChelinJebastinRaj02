@@ -77,7 +77,7 @@
 
 ## 🎓 Education  
 
-- **B.Tech in Computer Science / Software Engineering**  
+- **B.E in Electrical and Electronics Engineering / Software Engineering**  
 - Coursework focused on **Cybersecurity, Threat Analysis, and Automation**  
 
 ---
